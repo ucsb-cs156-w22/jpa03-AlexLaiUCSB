@@ -1,6 +1,6 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-AlexLaiUCSB/branch/master/graph/badge.svg?token=WQ0SbbwMRn)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-AlexLaiUCSB)
 
-# jpa03-AlexLaiUCSB
+# demo-spring-react
 
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-w22/jpa03-AlexLaiUCSB-docs/>
